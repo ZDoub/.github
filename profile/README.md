@@ -1,1 +1,1 @@
-<p align="center"> <img src="zdoub-sobre.png" alt="Zdoub: a história da marca, de DOUB Photos ao futuro" width="100%"> </p> <p align="center"> 🌐 <a href="https://douboficial.com"><b>douboficial.com</b></a> </p>
+<p align="center"> <img src="zdoub-sobre.png" alt="Zdoub: a história da marca, de DOUB Photos ao futuro" width="100%"> </p> <p align="center"> 🌐 <a href="https://douboficial.com">douboficial.com</a> · ✉️ contato@douboficial.com<br> <sub>Duas partes. Um sistema.</sub> </p>
