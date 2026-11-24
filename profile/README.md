@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Zdoub — do + ub = doub" width="100%">
+  <img src="banner.png" alt="Zdoub — do + ub = doub" width="600">
 </p>
 
 A Zdoub nasceu de um olhar. Inicialmente criada como **DOUB Photos** — um projeto de fotografia que registrava momentos e detalhes do cotidiano —, a marca carregava no próprio nome a união do casal: o encontro das últimas sílabas de duas histórias que compartilham o mesmo entusiasmo por tecnologia.
