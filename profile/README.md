@@ -12,10 +12,7 @@ A Zdoub é movida pela curiosidade e pelo desejo constante de criar algo maior. 
 
 ---
 
-| 🟣 Começo | 🟣 Hoje | 🟢 Futuro |
-| :-- | :-- | :-- |
-| **DOUB Photos** | **Zdoub** | **Próximos passos** |
-| Um projeto de fotografia do cotidiano. Foi onde a vontade de criar juntos começou. | A marca cresceu e virou uma casa de aplicações para o dia a dia, caminhando para a automação residencial. | Uma startup de automação, novos apps de utilidade diária e o desenvolvimento de games. |
+| **DOUB Photos**<br>Um projeto de fotografia do cotidiano. Foi onde a vontade de criar juntos começou. | **Zdoub**<br>A marca cresceu e virou uma casa de aplicações para o dia a dia, caminhando para a automação residencial. | **Próximos passos**<br>Uma startup de automação, novos apps de utilidade diária e o desenvolvimento de games. |
 
 ---
 
